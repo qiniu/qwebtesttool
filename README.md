@@ -7,4 +7,4 @@ qwebtesttool
 
 可以从下面的地址下载编译好的程序：
 
-[QWebTestTool_20141120.zip](http://qdisk.qiniudn.com/QWebTestTool_20141120.zip)
+[QWebTestTool_20141124.zip](http://qdisk.qiniudn.com/QWebTestTool_20141124.zip)
