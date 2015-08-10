@@ -1,4 +1,4 @@
-qwebtesttool
+QWebTestTool For Windows
 ============
 
 七牛本地网络环境检测图形界面。
@@ -8,3 +8,9 @@ qwebtesttool
 可以从下面的地址下载编译好的程序：
 
 [QWebTestTool_20141124.zip](http://qdisk.qiniudn.com/QWebTestTool_20141124.zip)
+
+大概是这样：
+
+![upload-test.png](upload-test.png)
+
+![upload-test.png](upload-test.png)
