@@ -11,6 +11,10 @@ QWebTestTool
 
 大概是这样：
 
-![upload-test.png](upload-test.png)
+测试上传，可以什么都不填，直接点击“测试上传”。
 
 ![upload-test.png](upload-test.png)
+
+测试下载，可以贴一个下载链接，直接点击“测试下载”。
+
+![download-test.png](upload-test.png)
