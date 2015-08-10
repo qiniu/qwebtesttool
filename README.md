@@ -17,4 +17,4 @@ QWebTestTool
 
 测试下载，可以贴一个下载链接，直接点击“测试下载”。
 
-![download-test.png](upload-test.png)
+![download-test.png](download-test.png)
