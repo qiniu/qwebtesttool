@@ -1,4 +1,4 @@
-QWebTestTool For Windows
+QWebTestTool
 ============
 
 七牛本地网络环境检测图形界面。
